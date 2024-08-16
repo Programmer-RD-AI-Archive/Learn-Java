@@ -1,4 +1,0 @@
-// Having more than one formatter
-// There are two forms of polymorphism, one
-
-// Overriding : The child class having a different method body (implementtaion)

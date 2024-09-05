@@ -1,16 +1,11 @@
+import java.util.ArrayList;
+
 public class Main{
     public static void main(String[] args){
-        int temp = 25;
-//        if (temp > 30){
-//            System.out.println("It is hot outside");
-//        } else if (temp >= 20 && temp <= 30) {
-//            System.out.println("It is warm outside");
-//        }
-//        else {
-//            System.out.println("It is cold outisde");
-//        }
+        ArrayList<String> food = new ArrayList<String>();
+        food.add("pizza");
 
+//        when using a int or smthn you gotta use the Integer wrapper class
         return;
     }
 }
-

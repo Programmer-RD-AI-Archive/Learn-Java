@@ -1,12 +1,7 @@
 public class Main{
     public static void main(String[] args){
-        String name = "Bro";
-        hello(name);
-        return;
-    }
-
-    static void hello(String name){
-        System.out.println("hello " + name);
+        Human human = new Human("Ranuga", 15, 50.0);
+        Human human2 = new Human("Disansa", 15, 50.0);
         return;
     }
 }

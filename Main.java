@@ -1,5 +1,7 @@
 public class Main{
     public static void main(String[] args){
-        DiceRoller dice = new DiceRoller();
+        Garage garage = new Garage();
+        Car3 car = new Car3("bmw");
+        return;
     }
 }
